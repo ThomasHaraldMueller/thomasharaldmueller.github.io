@@ -1,5 +1,5 @@
-title: "Thomas"
-author:
-  name: "Thomas"
-  email: ""
-  description: "Aerospace engineer | Nonlinear Control | Flight Dynamics"
+title: "Thomas Harald Mueller"
+description: "Aerospace Engineer | Flight Dynamics | Nonlinear Control"
+theme: minima
+
+markdown: kramdown
