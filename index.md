@@ -1,15 +1,17 @@
 ---
 layout: home
-title: "**Thomas** Mueller"
+title: "<strong>Thomas</strong> Mueller"
 ---
 
-I am **Thomas**, an aerospace engineer and Master's graduate from Delft University of Technology.
+I am **Thomas**, an aerospace engineer and Master's graduate in Aerospace Engineering with a specialization in Control and Simulation from **Delft University of Technology**.
 
-My interests focus on:
+My work focuses on nonlinear flight dynamics, dynamic inversion–based control, and robust control of aerospace systems under uncertainty.
 
-- Flight dynamics  
-- Nonlinear control  
-- Dynamic inversion  
-- Robust control under uncertainty  
+## Publications
 
-This site will host selected projects, research work, and simulation tools.
+- **[Incremental Nonlinear Dynamic Inversion Based Control of a Generic Hypersonic Vehicle (GHAME)](https://arc.aiaa.org/doi/10.2514/6.2026-0548)**  
+  Presented at the AIAA SciTech Forum 2026, Orlando, FL.
+
+- **[Design and Testing of a Reefed Disk-Gap-Band Parachute of Huygens Heritage for Sounding Rocket Recovery](https://www.eucass.eu/component/docindexer/?task=download&id=6874)**  
+  Presented at the Aerospace Europe Conference 2023 – 10th EUCASS – 9th CEAS.
+
