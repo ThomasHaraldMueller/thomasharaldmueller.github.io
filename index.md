@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Hello there"
+title: "**Thomas** Mueller"
 ---
 
 I am **Thomas**, an aerospace engineer and Master's graduate from Delft University of Technology.
