@@ -27,7 +27,7 @@ My work focuses on nonlinear flight dynamics, dynamic inversion–based control,
   <br><br>
 
   <button onclick="toggleBib('bib1')"
-          style="padding:5px 12px; border:1px solid #999; background:#f8f8f8; cursor:pointer;">
+          style="padding:4px 10px; border:1px solid #bbb; background:#fafafa; font-size:0.9em; cursor:pointer;">
     BIB
   </button>
 
@@ -46,18 +46,6 @@ eprint = {https://arc.aiaa.org/doi/pdf/10.2514/6.2026-0548},
 
 </div>
 
-<script>
-function toggleBib(id) {
-  var element = document.getElementById(id);
-  if (element.style.display === "none") {
-    element.style.display = "block";
-  } else {
-    element.style.display = "none";
-  }
-}
-</script>
-
-
 <div style="margin-bottom: 30px;">
 
   <strong>
@@ -74,8 +62,8 @@ function toggleBib(id) {
 
   <br><br>
 
-  <button onclick="toggleBib('bib2')"
-          style="padding:5px 12px; border:1px solid #999; background:#f8f8f8; cursor:pointer;">
+  <button onclick="toggleBib('bib1')"
+          style="padding:4px 10px; border:1px solid #bbb; background:#fafafa; font-size:0.9em; cursor:pointer;">
     BIB
   </button>
 
@@ -96,5 +84,14 @@ url       = {https://doi.org/10.13009/EUCASS2023-447}
 
 </div>
 
-
+<script>
+function toggleBib(id) {
+  var element = document.getElementById(id);
+  if (element.style.display === "none") {
+    element.style.display = "block";
+  } else {
+    element.style.display = "none";
+  }
+}
+</script>
 
