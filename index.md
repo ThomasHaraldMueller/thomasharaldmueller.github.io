@@ -70,8 +70,7 @@ function toggleBib(id) {
 
   Sahir Sujahudeen, Claudio Rapisarda, Thomas Mueller,  
   Nachiket Dighe, Erwin Mooij<br>
-  Aerospace Europe Conference 2023 – 10th EUCASS – 9th CEAS<br>
-  Lausanne, Switzerland, July 2023
+  Aerospace Europe Conference 2023 – 10th EUCASS – 9th CEAS, 2023
 
   <br><br>
 
@@ -97,5 +96,5 @@ url       = {https://doi.org/10.13009/EUCASS2023-447}
 
 </div>
   </a>  
-  Presented at the Aerospace Europe Conference 2023 – 10th EUCASS – 9th CEAS.
+
 
