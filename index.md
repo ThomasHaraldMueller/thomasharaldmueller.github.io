@@ -58,8 +58,44 @@ function toggleBib(id) {
 </script>
 
 
-- <a href="https://www.eucass.eu/component/docindexer/?task=download&id=6874" target="_blank">
-  <strong>Design and Testing of a Reefed Disk-Gap-Band Parachute of Huygens Heritage for Sounding Rocket Recovery</strong>
+<div style="margin-bottom: 30px;">
+
+  <strong>
+    <a href="https://doi.org/10.13009/EUCASS2023-447"
+       target="_blank"
+       rel="noopener noreferrer">
+    Design and Testing of a Reefed Disk-Gap-Band Parachute of Huygens Heritage for Sounding Rocket Recovery
+    </a>
+  </strong><br>
+
+  Sahir Sujahudeen, Claudio Rapisarda, Thomas Mueller,  
+  Nachiket Dighe, Erwin Mooij<br>
+  Aerospace Europe Conference 2023 – 10th EUCASS – 9th CEAS<br>
+  Lausanne, Switzerland, July 2023
+
+  <br><br>
+
+  <button onclick="toggleBib('bib2')"
+          style="padding:5px 12px; border:1px solid #999; background:#f8f8f8; cursor:pointer;">
+    BIB
+  </button>
+
+  <div id="bib2" style="display:none; margin-top:12px;">
+    <pre style="background:#f4f4f4; padding:15px; overflow:auto; font-size:0.85em;">
+@inproceedings{Mueller2023-EUCASS,
+author    = {Sujahudeen, Sahir and Rapisarda, Claudio and Mueller, Thomas and Dighe, Nachiket and Mooij, Erwin},
+title     = {Design and Testing of a Reefed Disk-Gap-Band Parachute of Huygens Heritage for Sounding Rocket Recovery},
+booktitle = {Aerospace Europe Conference 2023 -- 10th EUCASS -- 9th CEAS},
+year      = {2023},
+month     = {jul},
+address   = {Lausanne, Switzerland},
+doi       = {10.13009/EUCASS2023-447},
+url       = {https://doi.org/10.13009/EUCASS2023-447}
+}
+    </pre>
+  </div>
+
+</div>
   </a>  
   Presented at the Aerospace Europe Conference 2023 – 10th EUCASS – 9th CEAS.
 
