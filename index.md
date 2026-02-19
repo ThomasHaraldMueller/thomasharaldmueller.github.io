@@ -95,6 +95,6 @@ url       = {https://doi.org/10.13009/EUCASS2023-447}
   </div>
 
 </div>
-  </a>  
+
 
 
