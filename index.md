@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ""
+title: "Home"
 ---
 
 # <strong>Thomas</strong> Mueller
