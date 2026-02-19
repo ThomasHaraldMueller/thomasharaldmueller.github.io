@@ -62,7 +62,7 @@ eprint = {https://arc.aiaa.org/doi/pdf/10.2514/6.2026-0548},
 
   <br><br>
 
-  <button onclick="toggleBib('bib1')"
+  <button onclick="toggleBib('bib2')"
           style="padding:4px 10px; border:1px solid #bbb; background:#fafafa; font-size:0.9em; cursor:pointer;">
     BIB
   </button>
