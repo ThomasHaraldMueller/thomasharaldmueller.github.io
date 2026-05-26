@@ -1,0 +1,11 @@
+---
+---
+@import "minima";
+
+.publication      { margin-bottom: 30px; }
+.bib-toggle       { padding: 4px 10px; border: 1px solid #bbb;
+                    background: #fafafa; font-size: 0.9em; cursor: pointer; }
+.bib-block        { display: none; margin-top: 12px; }
+.bib-block pre    { background: #f4f4f4; padding: 15px;
+                    overflow: auto; font-size: 0.85em; }
+.site-footer a    { color: inherit; }
