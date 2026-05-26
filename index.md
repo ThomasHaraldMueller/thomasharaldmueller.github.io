@@ -19,6 +19,7 @@ My work focuses on nonlinear flight dynamics, dynamic inversion–based control,
   </strong><br>
   Thomas H. Mueller, Spilios Theodoulis, Ioannis Sarras<br>
   AIAA SCITECH 2026 Forum, 2026
+  <br>
   <button class="bib-toggle" onclick="toggleBib('bib1')">BIB</button>
   <br><br>
   <div id="bib1" class="bib-block">
@@ -47,6 +48,7 @@ My work focuses on nonlinear flight dynamics, dynamic inversion–based control,
   Sahir Sujahudeen, Claudio Rapisarda, Thomas Mueller,
   Nachiket Dighe, Erwin Mooij<br>
   Aerospace Europe Conference 2023 – 10th EUCASS – 9th CEAS, 2023
+  <br>
   <button class="bib-toggle" onclick="toggleBib('bib2')">BIB</button>
   <br><br>
   <div id="bib2" class="bib-block">
