@@ -8,6 +8,10 @@
   margin-bottom: 30px;
 }
 
+body {
+  background: red;
+}
+
 .bib-toggle {
   padding: 4px 10px;
   border: 1px solid #bbb;
