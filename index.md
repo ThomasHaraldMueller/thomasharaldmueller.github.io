@@ -23,6 +23,7 @@ My work focuses on nonlinear flight dynamics, dynamic inversion–based control,
   <button class="bib-toggle" onclick="toggleBib('bib1')">BIB</button>
   <div id="bib1" class="bib-block">
     <pre>
+  <br><br>
 @inproceedings{Mueller2026-INDI,
   author    = {Thomas H. Mueller and Spilios Theodoulis and Ioannis Sarras},
   title     = {Incremental Nonlinear Dynamic Inversion Based Control of a Generic Hypersonic Vehicle (GHAME)},
