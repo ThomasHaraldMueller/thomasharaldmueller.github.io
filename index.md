@@ -19,11 +19,10 @@ My work focuses on nonlinear flight dynamics, dynamic inversion–based control,
   </strong><br>
   Thomas H. Mueller, Spilios Theodoulis, Ioannis Sarras<br>
   AIAA SCITECH 2026 Forum, 2026
-  <br><br>
+  <br>
   <button class="bib-toggle" onclick="toggleBib('bib1')">BIB</button>
   <div id="bib1" class="bib-block">
     <pre>
-  <br><br>
 @inproceedings{Mueller2026-INDI,
   author    = {Thomas H. Mueller and Spilios Theodoulis and Ioannis Sarras},
   title     = {Incremental Nonlinear Dynamic Inversion Based Control of a Generic Hypersonic Vehicle (GHAME)},
@@ -48,7 +47,7 @@ My work focuses on nonlinear flight dynamics, dynamic inversion–based control,
   Sahir Sujahudeen, Claudio Rapisarda, Thomas Mueller,
   Nachiket Dighe, Erwin Mooij<br>
   Aerospace Europe Conference 2023 – 10th EUCASS – 9th CEAS, 2023
-  <br><br>
+  <br>
   <button class="bib-toggle" onclick="toggleBib('bib2')">BIB</button>
   <div id="bib2" class="bib-block">
     <pre>
