@@ -67,6 +67,19 @@ My work focuses on nonlinear flight dynamics, dynamic inversion–based control,
   </div>
 </div>
 
+
+<div class="publication">
+  <strong>
+    <a href="{{ '/assets/paper/SCITECH_2027_full_draft.pdf' | relative_url }}"
+       target="_blank"
+       rel="noopener noreferrer">
+      Control Barrier Function-Based Inlet Unstart Protection for an Air-Breathing Hypersonic Vehicle
+    </a>
+  </strong><br>
+  Thomas H. Mueller, Spilios Theodoulis, Ioannis Sarras, J. Autenrieb<br>
+  Unpublished, 2027
+</div>
+
 <script>
 function toggleBib(id) {
   var el = document.getElementById(id);
