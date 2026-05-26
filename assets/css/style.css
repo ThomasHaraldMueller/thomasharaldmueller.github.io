@@ -15,7 +15,6 @@
   cursor: pointer;
   border-radius: 3px;
   display: block;        /* add this */
-  margin-top: 15px;      /* add this */
 }
 
 .bib-block {
