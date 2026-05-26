@@ -2,10 +2,57 @@
 ---
 @import "minima";
 
-.publication      { margin-bottom: 30px; }
-.bib-toggle       { padding: 4px 10px; border: 1px solid #bbb;
-                    background: #fafafa; font-size: 0.9em; cursor: pointer; }
-.bib-block        { display: none; margin-top: 12px; }
-.bib-block pre    { background: #f4f4f4; padding: 15px;
-                    overflow: auto; font-size: 0.85em; }
-.site-footer a    { color: inherit; }
+/* Publications */
+.publication {
+  margin-bottom: 30px;
+}
+
+.bib-toggle {
+  padding: 4px 10px;
+  border: 1px solid #bbb;
+  background: #fafafa;
+  font-size: 0.9em;
+  cursor: pointer;
+  border-radius: 3px;
+}
+
+.bib-block {
+  display: none;
+  margin-top: 12px;
+}
+
+.bib-block pre {
+  background: #f4f4f4;
+  padding: 15px;
+  overflow: auto;
+  font-size: 0.85em;
+}
+
+/* Footer */
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  margin-bottom: 20px;
+}
+
+.footer-icon-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 60px;
+  height: 60px;
+  text-decoration: none;
+  font-size: 46px;
+}
+
+.footer-icon-link img {
+  width: 46px;
+  height: 46px;
+}
+
+.footer-copy {
+  font-size: 14px;
+  color: #777;
+}
