@@ -37,9 +37,10 @@ My work focuses on nonlinear flight dynamics, dynamic inversion–based control,
 author = {Thomas H. Mueller and Spilios Theodoulis and Ioannis Sarras},
 title = {Incremental Nonlinear Dynamic Inversion Based Control of a Generic Hypersonic Vehicle (GHAME)},
 booktitle = {AIAA SCITECH 2026 Forum},
+year  = {2026},
+month = {jan},
 doi = {10.2514/6.2026-0548},
 URL = {https://arc.aiaa.org/doi/abs/10.2514/6.2026-0548},
-eprint = {https://arc.aiaa.org/doi/pdf/10.2514/6.2026-0548},
 }
     </pre>
   </div>
