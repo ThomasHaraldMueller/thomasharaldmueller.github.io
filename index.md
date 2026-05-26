@@ -20,7 +20,7 @@ My work focuses on nonlinear flight dynamics, dynamic inversion–based control,
   Thomas H. Mueller, Spilios Theodoulis, Ioannis Sarras, J. Autenrieb<br>
    AIAA SCITECH 2027 Forum (Preprint), 2027
 </div>
-  <pre>
+<br><br>  
 <div class="publication">
   <strong>
     <a href="https://arc.aiaa.org/doi/10.2514/6.2026-0548"
