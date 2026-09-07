@@ -4,8 +4,8 @@ title: "Thomas Mueller"
 ---
 # Bio
 
-I am **Thomas**, an aerospace engineer and Master's graduate in Aerospace Engineering with a specialization in Control and Simulation from **Delft University of Technology**.
-My work focuses on nonlinear flight dynamics, dynamic inversion–based control, and robust control of aerospace systems under uncertainty.
+I am **Thomas**,  a research scientist at the German Aerospace Center (DLR) and Master's graduate in Aerospace Engineering from **Delft University of Technology**.
+My primary interests are flight dynamics and control, with a strong focus on nonlinear control methods, optimal control problems, and guidance of systems under uncertainty. I am particularly interested in high-performance aerospace systems and the rigorous modeling and simulation required to control them reliably.
 
 ## Publications
 
